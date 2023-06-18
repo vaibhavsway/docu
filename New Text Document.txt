@@ -1,0 +1,22 @@
+Soft Token Installation Instructions:
+1. To install the RSA application on your Windows PC/Laptop go to the Software store (http://softwarestore.sbc.com/ )
+
+2. Type in 'token' in the quick search.
+
+3. Select 'SecurID Software Token' and Download the application.
+
+4. If you are unable to use the AT&T Software store, you can download the application from https://ebiznet.att.com/rsa/
+
+5. Once you have installed the RSA Software, you will need to import the token.
+
+a. Open the RSA application and select Options, Import Token, Import from Web.
+
+b. Copy the URL (below) and Activation Code from this screen into the RSA Application.
+
+c. Click OK.
+
+https://tdc.att.com/ctkip/services/CtkipService
+
+Activation Code: 30203610
+
+Once successfully installed, you will need to set your PIN here Set PIN Link
